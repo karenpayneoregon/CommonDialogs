@@ -1,0 +1,77 @@
+﻿body {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.container {
+    margin-top:2em; 
+    margin-left: 1em;
+    height: 500px;
+    width: 470px;
+    /*border: red;
+    border-right-style: dashed*/
+}
+    .container label {
+        margin-top: 10px;
+        margin-right: 80px;
+        float:right;       
+    }
+
+.ui-button {
+    margin: 5px;
+    width: 250px;
+}
+
+.ui-dialog .ui-dialog-title .ui-icon {
+    float: left;
+    margin-right: 4px;
+}
+
+.invalid {
+    color: red;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+}
+
+h1 {
+    color: #599fcf;
+    padding-left: 20px;
+    margin-left: 1em;
+    background-color: aliceblue;
+}
+
+/*
+    custom css for commonDialogs.dialogWarning function
+*/
+.warningTitleClass .ui-dialog-titlebar {
+    background:black;
+    color: white;
+}
+.alertTitleClass .ui-dialog-titlebar {
+    background: red;
+    color: white;
+}
+
+/* change color of commonDialogs.dialogWarning button color */
+.btn-warn-dialog-ok {
+    color: black !important;
+}
+
+.btn-error-dialog-ok {
+    color: red !important;
+}
+
+/*
+See comments for dialogWarning where css is overridden.
+ .warningTitleClass .ui-dialog .ui-dialog-buttonpane {
+    text-align: center;
+}
+
+.warningTitleClass .ui-dialog .ui-dialog-buttonpane .ui-dialog-buttonset {
+        float: none;
+    }
+
+*/

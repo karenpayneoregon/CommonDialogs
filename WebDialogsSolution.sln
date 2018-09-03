@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jQueryDialogsSamples", "jQueryDialogsSamples\jQueryDialogsSamples.csproj", "{5B09067D-8CAC-40CF-82F2-3E218D6041B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsDialogsSamples", "WindowsFormsDialogsSamples\WindowsFormsDialogsSamples.csproj", "{D10CC60B-00ED-4434-B871-78811D15624E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDialogSamples", "WpfDialogSamples\WpfDialogSamples.csproj", "{1184139B-0F06-47B9-83B9-06A83271E7EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B09067D-8CAC-40CF-82F2-3E218D6041B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B09067D-8CAC-40CF-82F2-3E218D6041B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B09067D-8CAC-40CF-82F2-3E218D6041B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B09067D-8CAC-40CF-82F2-3E218D6041B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D10CC60B-00ED-4434-B871-78811D15624E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10CC60B-00ED-4434-B871-78811D15624E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10CC60B-00ED-4434-B871-78811D15624E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10CC60B-00ED-4434-B871-78811D15624E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1184139B-0F06-47B9-83B9-06A83271E7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1184139B-0F06-47B9-83B9-06A83271E7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1184139B-0F06-47B9-83B9-06A83271E7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1184139B-0F06-47B9-83B9-06A83271E7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6844089-847E-4BD2-BCF4-D180811ED045}
+	EndGlobalSection
+EndGlobal

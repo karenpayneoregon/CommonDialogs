@@ -1,0 +1,1 @@
+﻿This code sample is for a Microsoft TechNet article.

@@ -1,0 +1,4 @@
+﻿https://stevenbenner.github.io/jquery-powertip/
+
+* This in my opinion does a nice job for tool-tips
+* There are more style sheets, refer to the link above.
