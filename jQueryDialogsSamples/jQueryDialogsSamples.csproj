@@ -94,7 +94,6 @@
   <ItemGroup>
     <Content Include="includes\js\jquery-3.3.1.min.js" />
     <None Include="packages.config" />
-    <Content Include="readme.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
