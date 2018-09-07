@@ -67,7 +67,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="home.html" />
+    <Content Include="other.html" />
+    <Content Include="includes\css\alertify.css" />
+    <Content Include="includes\css\alertify.min.css" />
+    <Content Include="includes\css\alertify.rtl.css" />
+    <Content Include="includes\css\alertify.rtl.min.css" />
+    <Content Include="includes\js\alertify\alertify.js" />
+    <Content Include="includes\js\alertify\alertify.min.js" />
     <Content Include="includes\css\jquery-ui.min.css" />
     <Content Include="includes\css\jquery-ui.structure.css" />
     <Content Include="includes\css\jquery-ui.structure.min.css" />
@@ -79,7 +85,7 @@
     <Content Include="includes\css\powerTips\jquery.powertip.css" />
     <Content Include="includes\css\powerTips\jquery.powertip.min.css" />
     <Content Include="includes\js\comonDialogs.js" />
-    <Content Include="includes\js\home.js" />
+    <Content Include="includes\js\other.js" />
     <Content Include="includes\js\jquery-ui.js" />
     <Content Include="includes\js\jquery-ui.min.js" />
     <Content Include="includes\js\jquery.powertip.min.js" />
